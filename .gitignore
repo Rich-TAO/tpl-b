@@ -1,0 +1,7 @@
+node_modules
+.idea
+dist
+.DS_Store
+.vscode
+.history
+vim.exe.stackdump

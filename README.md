@@ -1,2 +1,2 @@
 # tpl-b
-模板b
+  vue-cli模板
